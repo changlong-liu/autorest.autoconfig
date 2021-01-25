@@ -1,5 +1,5 @@
 {
-  "name": "@autorest/autoconfig",
+  "name": "autorest-autoconfig",
   "version": "0.1.0",
   "description": "Autorest auto configuration extension",
   "main": "dist/index.js",

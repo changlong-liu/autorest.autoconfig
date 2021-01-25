@@ -7,4 +7,4 @@ https://github.com/Azure/azure-rest-api-specs
 
 ## How to Generate Python Test
 
-    autorest --autoconfig --use=@autorest/autoconfig@latest /_/azure-rest-api-specs/specification/storageimportexport/resource-manager/readme.md
+    autorest --use=autorest-autoconfig@latest /azure-rest-api-specs/specification/storageimportexport/resource-manager/readme.md  --resource-file=./samples/sampleResource.json
